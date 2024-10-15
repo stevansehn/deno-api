@@ -1,0 +1,31 @@
+# Deno specific
+/.deno/
+/.vscode/
+/.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Deno lock file (if you're using one)
+deno.lock
+
+# Compiled output (if any)
+/dist/
+
+# Dependency directories (if any)
+/node_modules/
+
+# Editor specific files
+*.swp
+*.swo
+*~
+
+# Test coverage output (if you're using a coverage tool)
+/coverage/
